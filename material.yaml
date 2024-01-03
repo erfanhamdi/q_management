@@ -1,0 +1,12 @@
+l_0: 0.015
+delta_T_1: 1e-05
+delta_T_2: 1e-05
+stag_iter: 5
+loading: shear
+Young: 210000.0
+Poisson: 0.3
+G_c: 2.7
+num_steps: 5000
+mesh_add: meshes/miehe_regional_0.xml
+description: miehe_regional_0
+output_folder: results/2024-01-02_20:27:19

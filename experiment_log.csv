@@ -1,0 +1,2 @@
+job_id,l_0,delta_T_1,delta_T_2,stag_iter,loading,Young,Poisson,G_c,num_steps,mesh_add,description,output_folder
+123456,[0.015],[1e-05],[1e-05],[5],['shear'],[210000.0],[0.3],[2.7],[5000],['meshes/miehe_regional_0.xml'],['miehe_regional_0'],['results/2024-01-02_20:27:19']
