@@ -19,3 +19,5 @@ python3 viewer.py
 ```
 This will start a local server on port 5000. You can view the job status by visiting `localhost:5000` on your browser.
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
